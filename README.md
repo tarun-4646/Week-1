@@ -1,7 +1,7 @@
 # Water Quality Prediction
 
 
-(Since the .pkl file is more than 25MB,I have uploaded the model link here)
+(Since the pollution.pkl file is more than 25MB,I have uploaded the model link here)
 
 Model Link:
 
